@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VIF9yxt7cizlfN/5FyIhCYmSpeUjLjMtJ5qCQU+z3cJD6WDqk9osp6tyN/xc84cji3o1DGtLrcqfz0SS0igKQA==",
+  "success": true,
+  "projectFilePath": "E:\\WorkThalys\\E-Commerce\\E-Commerce\\FreteApi\\FreteApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\9.2.0\\fluentvalidation.9.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.2.0\\fluentvalidation.aspnetcore.9.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.2.0\\fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mongodb.bson\\2.11.2\\mongodb.bson.2.11.2.nupkg.sha512"
+  ],
+  "logs": []
+}

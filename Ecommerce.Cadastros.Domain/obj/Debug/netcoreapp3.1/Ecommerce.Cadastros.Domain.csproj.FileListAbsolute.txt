@@ -1,0 +1,12 @@
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.deps.json
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.AssemblyInfoInputs.cache
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.AssemblyInfo.cs
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.csprojAssemblyReference.cache
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.csproj.CopyComplete
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.csproj.CoreCompileInputs.cache

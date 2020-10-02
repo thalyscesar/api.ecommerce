@@ -1,0 +1,9 @@
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\bin\Debug\netcoreapp3.1\Ecommerce.Core.deps.json
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\obj\Debug\netcoreapp3.1\Ecommerce.Core.AssemblyInfoInputs.cache
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\obj\Debug\netcoreapp3.1\Ecommerce.Core.AssemblyInfo.cs
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\obj\Debug\netcoreapp3.1\Ecommerce.Core.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\obj\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\obj\Debug\netcoreapp3.1\Ecommerce.Core.csproj.CoreCompileInputs.cache
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Core\obj\Debug\netcoreapp3.1\Ecommerce.Core.csprojAssemblyReference.cache

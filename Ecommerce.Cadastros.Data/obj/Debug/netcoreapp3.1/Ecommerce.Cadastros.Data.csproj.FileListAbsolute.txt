@@ -1,0 +1,17 @@
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.deps.json
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.AssemblyInfoInputs.cache
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.AssemblyInfo.cs
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.csprojAssemblyReference.cache
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.runtimeconfig.json
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.runtimeconfig.dev.json
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.dll
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Cadastros.Domain.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\bin\Debug\netcoreapp3.1\Ecommerce.Core.pdb
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.csproj.CopyComplete
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.genruntimeconfig.cache
+E:\WorkThalys\E-Commerce\E-Commerce\Ecommerce.Cadastros.Data\obj\Debug\netcoreapp3.1\Ecommerce.Cadastros.Data.csproj.CoreCompileInputs.cache
